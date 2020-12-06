@@ -10,6 +10,7 @@ import {
   CLEAR_CURRENT,
 } from './types';
 
+// get Logs from the server
 export const getLogs = () => async (dispatch) => {
   try {
     setLoading();
