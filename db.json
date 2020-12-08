@@ -27,13 +27,6 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2019-05-31T19:57:35.544Z"
-    },
-    {
-      "message": "test server",
-      "attention": true,
-      "tech": "John Doe1",
-      "date": "2020-12-07T13:44:41.785Z",
-      "id": 5
     }
   ],
   "techs": [
